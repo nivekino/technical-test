@@ -1,0 +1,62 @@
+.formulary {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-default {
+  border-radius: 10px;
+  border: 2px solid #27e7fd;
+  padding: 7px 10px;
+}
+
+.div-default {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.label-default {
+  font-size: 16px;
+  font-family: cursive;
+  font-weight: 700;
+  width: 100px;
+}
+
+.div-default {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.btn-submit {
+  padding: 8px 20px;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  background: #2788fd;
+  color: #fff;
+}
+
+.div-default2 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+.message-error {
+  color: red;
+  font-size: 16px;
+  font-family: cursive;
+}
+
+.title-form {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 800;
+}
